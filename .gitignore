@@ -1,0 +1,4 @@
+linux/
+kconfig/.config.old
+out/*
+!out/README
